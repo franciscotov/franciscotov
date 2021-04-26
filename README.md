@@ -1,5 +1,12 @@
 ### console.log("Hello, World!!!") 👋
-**I am a PERN stack and MERN stack web developer, during the last months I have worked professionally with the following technologies:**
+**I am a PERN stack and MERN stack web developer**
+
+```js
+const dev = {
+  code: ["Javascript", "HTML", "CSS", "Python"],
+  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", "MongoDB", "Graphql", "JQuery"]
+}
+```
 
 
 You can find me!
