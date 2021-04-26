@@ -1,12 +1,14 @@
 <h1 align="center">👋 console.log("Hello, World!!!") </h1>
 
 **I am Francisco, a PERN stack and MERN stack web developer, and graduate in Physics.**
+<img src="https://user-images.githubusercontent.com/54585008/116141951-b587de00-a6af-11eb-931d-6d01eaafcf0d.JPG" alt="dev_object" align="right" width="250" height="250" />
 <p>We can define my knowledge as follows: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 ```js
 const dev = {
   code: ["Javascript", "HTML", "CSS", "Python"],
-  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", "MongoDB", "Graphql", "JQuery", "Redux"]
+  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", 
+  "MongoDB", "Sequelize", "Graphql", "JQuery", "Redux", "GIT"]
 }
 ```
 ### 💼 I'm currently working on:
@@ -15,10 +17,12 @@ const dev = {
 - Learning about React-Native <a href = "https://www.java.com/en/"><img height="40" src="https://user-images.githubusercontent.com/54585008/116111669-3e415280-a68d-11eb-9f0c-36a94762d8be.png" alt="Java"></a> Development
 - Improve my english and soft skills
 
-can you connect with me!
+You can connect with me!
 - <a href="https://www.linkedin.com/in/franciscotov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
+
+⭐️ From [Franciscotov](https://github.com/franciscotov)
 <!--
 **franciscotov/franciscotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
