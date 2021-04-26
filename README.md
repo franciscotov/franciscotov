@@ -12,7 +12,7 @@ const dev = {
 ### 💼 I'm currently working on:
 - [My group project](https://github.com/ecommercehenry/FT10-G3)
 - Learning more tools about Full Stack Web💻 Development
-- Learning about React-Native <a href = "https://www.java.com/en/"><img height="40" src="https://user-images.githubusercontent.com/54585008/116103957-71ccae80-a686-11eb-975a-00872b413f92.png" alt="Java"></a> Development
+- Learning about React-Native <a href = "https://www.java.com/en/"><img height="40" src="https://user-images.githubusercontent.com/54585008/116111669-3e415280-a68d-11eb-9f0c-36a94762d8be.png" alt="Java"></a> Development
 - Improve my english and soft skills
 
 can you connect with me!
