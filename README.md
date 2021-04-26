@@ -1,5 +1,7 @@
-# console.log("Hello, World!!!") 👋
-**I am a PERN stack and MERN stack web developer**
+<h1 align="center">👋 console.log("Hello, World!!!") </h1>
+
+**I am Francisco, a PERN stack and MERN stack web developer, and graduate in Physics**
+<p>We can define my knowledge as follows</p>
 
 ```js
 const dev = {
@@ -9,8 +11,9 @@ const dev = {
 ```
 
 
-You can find me!
+can you connect with me!
 - <a href="https://www.linkedin.com/in/franciscotov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 <!--
 **franciscotov/franciscotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
