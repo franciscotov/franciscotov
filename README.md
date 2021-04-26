@@ -4,7 +4,7 @@
 ```js
 const dev = {
   code: ["Javascript", "HTML", "CSS", "Python"],
-  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", "MongoDB", "Graphql", "JQuery"]
+  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", "MongoDB", "Graphql", "JQuery", "Redux"]
 }
 ```
 
