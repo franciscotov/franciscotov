@@ -1,4 +1,4 @@
-### console.log("Hello, World!!!") 👋
+# console.log("Hello, World!!!") 👋
 **I am a PERN stack and MERN stack web developer**
 
 ```js
@@ -10,7 +10,8 @@ const dev = {
 
 
 You can find me!
-- [Linkedin](https://www.linkedin.com/in/franciscotov/)
+- <a href="https://www.linkedin.com/in/franciscotov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <!--
 **franciscotov/franciscotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
