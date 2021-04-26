@@ -1,7 +1,7 @@
 <h1 align="center">👋 console.log("Hello, World!!!") </h1>
 
 **I am Francisco, a PERN stack and MERN stack web developer, and graduate in Physics.**
-<p>We can define my knowledge as follows:</p>
+<p>We can define my knowledge as follows: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 ```js
 const dev = {
@@ -12,7 +12,7 @@ const dev = {
 ### 💼 I'm currently working on:
 - [My group project](https://github.com/ecommercehenry/FT10-G3)
 - Learning more tools about Full Stack Web💻 Development
-- Learning about React-Native Development
+- Learning about React-Native <a href = "https://www.java.com/en/"><img height="40" src="https://user-images.githubusercontent.com/54585008/116103957-71ccae80-a686-11eb-975a-00872b413f92.png" alt="Java"></a> Development
 - Improve my english and soft skills
 
 can you connect with me!
