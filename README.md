@@ -1,6 +1,9 @@
 ### console.log("Hello, World!!!") 👋
 **I am a PERN stack and MERN stack web developer, during the last months I have worked professionally with the following technologies:**
 
+
+You can find me!
+- [Linkedin](https://www.linkedin.com/in/franciscotov/)
 <!--
 **franciscotov/franciscotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
