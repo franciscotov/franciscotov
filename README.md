@@ -6,6 +6,7 @@
 I am passionate about programming, sports and statistics.**
 
 <p>We can define my knowledge as follows: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+
 ```js
 const dev = {
   code: ["Javascript", "HTML", "CSS", "Python"],
