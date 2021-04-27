@@ -1,11 +1,11 @@
 <h1 align="center">👋 console.log("Hello, World!!!") </h1>
 <img src="https://user-images.githubusercontent.com/54585008/116141951-b587de00-a6af-11eb-931d-6d01eaafcf0d.JPG" alt="dev_object" align="right" width="250" height="250" />
-<p>We can define my knowledge as follows: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+
 
 **I am Francisco, a PERN stack and MERN stack web developer, and graduate in Physics.
 I am passionate about programming, sports and statistics.**
 
-
+<p>We can define my knowledge as follows: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 ```js
 const dev = {
   code: ["Javascript", "HTML", "CSS", "Python"],
