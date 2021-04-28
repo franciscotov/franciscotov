@@ -26,7 +26,7 @@ const dev = {
 
 You can connect with me!
 - <a href="https://www.linkedin.com/in/franciscotov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:francisco.ronaldo.tovar@gmail.com)
 
 
 ⭐️ From [Franciscotov](https://github.com/franciscotov)
