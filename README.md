@@ -10,7 +10,7 @@ I am passionate about programming, sports and statistics.**
 ```js
 const dev = {
   code: ["Javascript", "HTML", "CSS", "Python"],
-  tools: ["Postgresql", "ExpressJS", "RactJS", "NodeJS", 
+  tools: ["ReactJS", "Angular+2", "Java", "Typescript", "Postgresql", "ExpressJS", "NodeJS", 
   "MongoDB", "Sequelize", "Graphql", "JQuery", "Redux", "GIT"]
 }
 ```
